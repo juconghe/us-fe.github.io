@@ -1,0 +1,1 @@
+const t={key:"v-22dda2ff",path:"/blog/about-us-fe.html",title:"\u5173\u4E8E US-FE",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650672386e3,contributors:[{name:"yanqi",email:"yanqi.zyq@antfin.com",commits:1}]},filePathRelative:"blog/about-us-fe.md"};export{t as data};

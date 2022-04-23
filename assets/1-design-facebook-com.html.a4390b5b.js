@@ -1,0 +1,1 @@
+const e={key:"v-0313ffb8",path:"/system-design/1-design-facebook-com.html",title:"1. Design facebook.com",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650640295e3,contributors:[{name:"yanqi",email:"yanqi.zyq@antfin.com",commits:1}]},filePathRelative:"system-design/1-design-facebook-com.md"};export{e as data};

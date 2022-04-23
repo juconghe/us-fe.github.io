@@ -1,0 +1,1 @@
+const e={key:"v-83e5334e",path:"/problems/javascript/1-promise-order.html",title:"1. Promise order",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650666224e3,contributors:[{name:"yanqi",email:"yanqi.zyq@antfin.com",commits:2}]},filePathRelative:"problems/javascript/1-promise-order.md"};export{e as data};

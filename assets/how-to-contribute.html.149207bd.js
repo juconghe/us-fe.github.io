@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a,b as c}from"./app.af5d4dc5.js";const r={},s={id:"\u5982\u4F55\u534F\u4F5C",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#\u5982\u4F55\u534F\u4F5C","aria-hidden":"true"},"#",-1),n=c(" \u5982\u4F55\u534F\u4F5C"),d=[_,n];function h(i,f){return t(),o("h1",s,d)}var u=e(r,[["render",h],["__file","how-to-contribute.html.vue"]]);export{u as default};
